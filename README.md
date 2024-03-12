@@ -1,5 +1,7 @@
 # lottery.aleo
 
+Discord handle: elfin2701
+
 ## Run Guide
 
 To run this program, run:
